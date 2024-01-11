@@ -1,4 +1,6 @@
 # message-australia-degrowth
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10490965.svg)](https://doi.org/10.5281/zenodo.10490965)
+
 Scripts to recreate figures for the analysis as presented in "Downscaling Down Under: Towards degrowth in integrated assessment models" (Kikstra et al., 2024) in Economic Systems Research.
 DOI: https://doi.org/10.1080/09535314.2023.2301443
 
