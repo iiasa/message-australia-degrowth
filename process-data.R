@@ -16,9 +16,9 @@ load_pkgs()
 
 
 # Files: IPCC ====
-IPCC.DATA.FILE.R10 <- "{YOUR-PATH-TO-AR6-SCENARIO-DATA}/AR6_Scenarios_Database_R10_regions_v1.1.csv"
+IPCC.DATA.FILE.R10 <- "C:\\Users\\kikstra\\OneDrive - IIASA\\_Other\\Data\\Scenario data\\Scenario Databases\\AR6_Scenarios_Database_R10_regions_v1.1/AR6_Scenarios_Database_R10_regions_v1.1.csv"
 
-IPCC.META.FILE <- "{YOUR-PATH-TO-AR6-SCENARIO-DATA}/AR6_Scenarios_Database_metadata_indicators_v1.1.xlsx"
+IPCC.META.FILE <- "C:\\Users\\kikstra\\OneDrive - IIASA\\_Other\\Data\\Scenario data\\Scenario Databases\\AR6_Scenarios_Database_R10_regions_v1.1/AR6_Scenarios_Database_metadata_indicators_v1.1.xlsx"
 IPCC.META.FILE.SHEET <- "meta_Ch3vetted_withclimate" # Category
 
 
